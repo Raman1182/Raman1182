@@ -33,7 +33,7 @@ Tools:           Convex, Clerk, MongoDB, Prisma, TailwindCSS
 Concepts:        Auth, AI Integration, Real-Time Sync, CI/CD
 
 >3
- LearnLog
+ Notel
 → AI-powered student productivity tool: summaries, semantic search, knowledge graphs.
 
  SmalLocal

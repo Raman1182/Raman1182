@@ -1,16 +1,54 @@
-## Hi there 👋
+```text
+> npm run raman
 
-<!--
-**Raman1182/Raman1182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Starting Raman CLI...
+> Fetching brain modules...
 
-Here are some ideas to get you started:
+📦 Installing dependencies...
+   ⠙ @raman/core.................................done
+   ⠹ Compiling creativity engine.................done
+   ⠸ Linking neurons.............................done
+   ⠼ Building portfolio..........................done
+✔ All systems operational!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+╭────────────────────────────────────────────╮
+│     🧠  RAMAN INTERACTIVE TERMINAL v1.0     │
+╰────────────────────────────────────────────╯
+
+Select a command:
+  ▸ about-me
+    skills
+    projects
+    exit
+
+>1
+Hi, I'm Raman Pareek — a full stack dev from IIT Jodhpur.
+I build sleek, scalable web apps that actually solve problems.
+Obsessed with good UI, clean code, and efficient developer workflows.
+
+>2
+Languages:       C++, Python, JavaScript, TypeScript, SQL
+Frameworks:      React, Next.js, Node.js, Flask, Express
+Tools:           Convex, Clerk, MongoDB, Prisma, TailwindCSS
+Concepts:        Auth, AI Integration, Real-Time Sync, CI/CD
+
+>3
+ LearnLog
+→ AI-powered student productivity tool: summaries, semantic search, knowledge graphs.
+
+ SmalLocal
+→ Sellers get custom pages— no competing distractions.
+  Helps with customer retention and simplified product discovery.
+
+ SplitEasy
+→ A group expense manager w/ real-time sync, AI summaries, and reminders.
+
+ AI Article Summarizer
+→ 1-click Chrome extension using Gemini API to TL;DR any article.
+
+ News Veracity & Bias Detector
+→ NLP-based fake news + political bias classifier (TF-IDF, SVM).
+
+>4
+Session terminated.
+Thanks for exploring Raman CLI.

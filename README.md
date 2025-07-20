@@ -1,22 +1,14 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=npm+run+raman" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&center=true&width=435&height=80&lines=%3E+npm+run+raman;%3E+Starting+Raman+CLI...;%3E+Fetching+brain+modules...;%3E+Compiling+creativity+engine...;%3E+All+systems+operational!" alt="Typing SVG" /></a>
 
-```text
-> npm run raman
-
-> Starting Raman CLI...
-> Fetching brain modules...
-
-📦 Installing dependencies...
+```text=
+   Installing dependencies...
    ⠙ @raman/core.................................done
    ⠹ Compiling creativity engine.................done
    ⠸ Linking neurons.............................done
    ⠼ Building portfolio..........................done
-✔ All systems operational!
 
 ╭────────────────────────────────────────────╮
-│     🧠  RAMAN INTERACTIVE TERMINAL v1.0     │
+│     RAMAN INTERACTIVE TERMINAL v1.0        │
 ╰────────────────────────────────────────────╯
 
 Select a command:

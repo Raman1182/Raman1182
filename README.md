@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=npm+run+raman" alt="Typing SVG" />
+</p>
+
 ```text
 > npm run raman
 

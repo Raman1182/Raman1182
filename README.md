@@ -36,7 +36,7 @@ Concepts:        Auth, AI Integration, Real-Time Sync, CI/CD
 → Sellers get custom pages— no competing distractions.
   Helps with customer retention and simplified product discovery.
 
- SplitEasy
+ SettleSmart
 → A group expense manager w/ real-time sync, AI summaries, and reminders.
 
  AI Article Summarizer

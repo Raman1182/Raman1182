@@ -18,7 +18,7 @@ Select a command:
     exit
 
 >1
-Hi, I'm Raman Pareek — a full stack dev from IIT Jodhpur.
+Hi, I'm Raman Pareek — a full stack dev.
 I build sleek, scalable web apps that actually solve problems.
 Obsessed with good UI, clean code, and efficient developer workflows.
 
